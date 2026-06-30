@@ -1,0 +1,35 @@
+# Core Libraries
+numpy>=1.24.0
+opencv-python>=4.9.0
+Pillow>=10.0.0
+
+# Deep Learning
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Object Detection
+ultralytics>=8.3.0
+
+# SAHI
+sahi>=0.11.18
+
+# Scientific Computing
+scipy>=1.11.0
+
+# Data Export
+pandas>=2.2.0
+
+# Progress Bars
+tqdm>=4.66.0
+
+# YAML Support
+PyYAML>=6.0
+
+# Plotting (used by MiDaS/Ultralytics)
+matplotlib>=3.8.0
+
+# Optional (recommended)
+requests>=2.31.0
+psutil>=5.9.0
+```
+
