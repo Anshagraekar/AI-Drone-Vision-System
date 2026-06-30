@@ -95,6 +95,16 @@ python main.py
 
 ---
 
+## Camera Configuration
+
+By default, the project uses your computer's webcam:
+
+VIDEO_PATH = 0
+
+To use DroidCam or an IP Webcam, replace it with your stream URL:
+
+VIDEO_PATH = "http://<your-ip>:4747/video"
+
 ## 📊 Current Capabilities
 
 - Detects multiple objects in real time
@@ -122,19 +132,6 @@ python main.py
 - Uses monocular depth estimation, which provides approximate rather than LiDAR-level metric accuracy.
 - Distance estimation may vary depending on lighting conditions, camera calibration, and scene complexity.
 - Performance is optimized for CPU execution but improves significantly with GPU acceleration.
-
----
-
-## 📷 Demo
-
-*(Add screenshots or GIFs here)*
-
-Example:
-
-- Real-time object detection
-- Depth estimation overlay
-- 3D blueprint visualization
-- Spatial mapping output
 
 ---
 
