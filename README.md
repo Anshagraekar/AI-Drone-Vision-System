@@ -36,21 +36,27 @@ An AI-powered Computer Vision system that performs **real-time object detection*
 Camera Input
       │
       ▼
+      
 Video Stream
       │
       ▼
+      
 YOLO Object Detection
       │
       ▼
+      
 MiDaS Depth Estimation
       │
       ▼
+      
 3D Position Calculation
       │
       ▼
+      
 Distance Estimation
       │
       ▼
+      
 3D Blueprint Visualization
 
 
@@ -59,17 +65,29 @@ Distance Estimation
 Drone-Vision-System/
 │
 ├── main.py
+
 ├── config.py
+
 ├── detection.py
+
 ├── depth_estimation.py
+
 ├── geometry.py
+
 ├── blueprint.py
+
 ├── videostream.py
+
 ├── exporter.py
+
 ├── utils.py
+
 ├── sahi_detector.py
+
 ├── models/
+
 ├── outputs/
+
 └── README.md
 
 Place the following pretrained models in models folder before running the project:
