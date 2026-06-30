@@ -150,7 +150,7 @@ VIDEO_PATH = "http://<your-ip>:4747/video"
 
 ### 3D Blueprint
 
-![Blueprint](assets/blueprint.jpg)
+![Blueprint](assets/Blueprint.jpg)
 
 ### Combined View
 
