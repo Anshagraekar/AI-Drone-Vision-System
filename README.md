@@ -34,26 +34,32 @@ An AI-powered Computer Vision system that performs **real-time object detection*
 ## 🏗️ System Architecture
 
 Camera Input
+`
       │
       ▼
       
 Video Stream
+`
       │
       ▼
       
 YOLO Object Detection
+`
       │
       ▼
       
 MiDaS Depth Estimation
+`
       │
       ▼
       
 3D Position Calculation
+`
       │
       ▼
       
 Distance Estimation
+`
       │
       ▼
       
@@ -63,6 +69,7 @@ Distance Estimation
 ## 📂 Project Structure
 
 Drone-Vision-System/
+
 │
 ├── main.py
 
