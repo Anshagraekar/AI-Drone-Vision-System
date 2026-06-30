@@ -72,6 +72,13 @@ Drone-Vision-System/
 ├── outputs/
 └── README.md
 
+Place the following pretrained models in models folder before running the project:
+
+- yolo26n.pt
+- dpt_large_384.pt
+
+Download them from their respective official sources.
+
 ## 🚀 Installation
 
 Clone the repository
