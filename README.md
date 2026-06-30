@@ -142,6 +142,20 @@ VIDEO_PATH = "http://<your-ip>:4747/video"
 
 ---
 
+## Project Demonstration
+
+### Real-Time Object Detection
+
+![Object Detection](assets/object_detection.jpg)
+
+### 3D Blueprint
+
+![Blueprint](assets/blueprint.jpg)
+
+### Combined View
+
+![Combined View](assets/combined_view.jpg)
+
 ## 👨‍💻 Author
 
 **Ansh Agraekar**
